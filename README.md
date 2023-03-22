@@ -3,7 +3,7 @@ Lodash-PHP is a port of the [Lodash JS library](https://lodash.com/) to PHP. It 
 
 Lodash-PHP tries to mimick lodash.js as close as possible
 
-:siren: This is a fork since upstream hasn't been updated in a while, and some PHP 8 compatibility issues have emerged.
+🚨🚨🚨 This is a fork since upstream hasn't been updated in a while, and some PHP 8 compatibility issues have emerged!
 
 # Installation
 
