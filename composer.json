@@ -1,6 +1,6 @@
 {
-    "name": "lodash-php/lodash-php",
-    "description": "A port of Lodash to PHP",
+    "name": "northwestern-system/lodash-php",
+    "description": "A port of Lodash to PHP (forked)",
     "keywords": [
         "lodash",
         "utility",

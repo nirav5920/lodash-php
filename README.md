@@ -10,7 +10,7 @@ Lodash-PHP tries to mimick lodash.js as close as possible
 Install Lodash-PHP through composer:
 
 ```bash
-$ composer require lodash-php/lodash-php
+$ composer require northwestern-system/lodash-php
 ```
 
 # Usage
