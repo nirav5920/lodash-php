@@ -53,7 +53,7 @@ class IsEqualTest extends TestCase
                 $ob1, $ob2,
             ],
             [
-                new DateTime('NOW'), new DateTime('NOW'),
+                new DateTime('yesterday'), new DateTime('tomorrow'),
             ],
         ];
     }
