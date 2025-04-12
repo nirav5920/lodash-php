@@ -1,5 +1,5 @@
 {
-    "name": "northwestern-sysdev/lodash-php",
+    "name": "artisans/northwestern-sysdev/lodash-php",
     "description": "A port of Lodash to PHP (forked)",
     "keywords": [
         "lodash",
