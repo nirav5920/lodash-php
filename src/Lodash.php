@@ -90,10 +90,10 @@ function lodash($value): _Lodash
 // We can't use "_" as a function name, since it collides with the "_" function in the gettext extension
 // Laravel uses a function __, so only register the alias if the function name is not in use
 if (!function_exists('__')) {
-    function __($value): _Lodash
-    {
-        return new _Lodash($value);
-    }
+    // function __($value): _Lodash
+    // {
+    //     return new _Lodash($value);
+    // }
 }
 
 if (!defined('_')) {
